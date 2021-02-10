@@ -1,3 +1,11 @@
+# Pleasanton CA Visualization
+
+This project aims to create visualizations about various Pleasanton City municipalities.
+
+This project uses the [next-js-boilerplate](https://github.com/ixartz/Next-js-Boilerplate).
+
+***
+
 # Boilerplate and Starter for Next JS 10+, Tailwind CSS 2.0 and TypeScript
 
 <p align="center">
